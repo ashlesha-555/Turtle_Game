@@ -18,4 +18,4 @@ Turtle Crossing is a simple game built using the Python Turtle graphics library.
 
 7. To exit the game, click on the game window.
 
-![Turtle]([https://i.pinimg.com/564x/12/49/b5/1249b55a584c154150a9a7660ef3edc)
+![Turtle](https://i.pinimg.com/564x/12/49/b5/1249b55a584c154150a9a7660ef3edc)
